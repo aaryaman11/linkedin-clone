@@ -6,10 +6,12 @@ import Header from './Header';
 function App() {
   return (
     <div className="app">
-      {/* Header */}
       <Header />
 
       {/*App Body */}
+      <div className="app__body">
+        <sidebar />
+      </div>
         {/* Sidebar */}
         {/* Feed */}
         {/* Widget */}
