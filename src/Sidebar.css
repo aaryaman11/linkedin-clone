@@ -1,0 +1,13 @@
+.sidebar__stats {
+ 
+}
+
+.sidebar__stat {
+    display : flex;
+    margin-bottom: 5px;
+}
+
+.sidebar__statNumber {
+    margin-left: 15px;
+    font-weight: 700;
+}
