@@ -41,5 +41,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "function.prototype.name": "^1.1.1",
+    "object.entries": "^1.1.0"
   }
 }
